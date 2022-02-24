@@ -1,0 +1,15 @@
+#ciao{
+    background-color: aqua;
+    padding: 10px;
+}
+
+.box{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin: 10px;
+    color: white;
+    line-height: 100px;
+    text-align: center;
+}
